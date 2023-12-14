@@ -103,12 +103,51 @@
           1,
           null,
           1,
-          3444,
-          3444,
-          3444,
-          3444,
-          3444,
-          3444,
+          3446,
+          3446,
+          3446,
+          3446,
+          3446,
+          3446,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/vendors_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/facade/vendor_facade.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/services/vendor_service.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
           null,
           null
         ]
@@ -125,29 +164,6 @@
       },
       "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/channels/application_cable/connection.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/vendors_controller.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/facade/vendor_facade.rb": {
-        "lines": [
-          0,
-          0,
           0,
           0,
           0,
@@ -187,30 +203,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/services/vendor_service.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1702591385
+    "timestamp": 1702593050
   }
 }

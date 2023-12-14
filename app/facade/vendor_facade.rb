@@ -1,6 +1,6 @@
 class VendorFacade
   def self.vendor(id)
-    vendor = VendorService.vendor(id)[:data]
-    Vendor.new(vendor)
+    response = VendorService.vendor(id)[:data]
+    Vendor.new(response)
   end
 end
