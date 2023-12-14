@@ -1,6 +1,118 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/markets_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/facade/market_facade.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          1692,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          3444,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/services/market_service.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          6,
+          6,
+          null,
+          null,
+          1,
+          6,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/poros/market.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          1694,
+          null,
+          null
+        ]
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/poros/vendor.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          3444,
+          3444,
+          3444,
+          3444,
+          3444,
+          3444,
+          null,
+          null
+        ]
+      },
       "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -21,16 +133,23 @@
         "branches": {
         }
       },
-      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/application_controller.rb": {
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/controllers/vendors_controller.rb": {
         "lines": [
+          0,
+          0,
+          0,
           0,
           0
         ],
         "branches": {
         }
       },
-      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/helpers/application_helper.rb": {
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/facade/vendor_facade.rb": {
         "lines": [
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -68,8 +187,30 @@
         ],
         "branches": {
         }
+      },
+      "/Users/theaveryrodriguez/turing_work/3mod/projects/market_money/market_money_fe/app/services/vendor_service.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1702506361
+    "timestamp": 1702591385
   }
 }
